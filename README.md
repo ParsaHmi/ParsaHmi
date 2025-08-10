@@ -31,7 +31,7 @@ GEEK ;
 ---
 
 ## Contact Info
-[![Email](https://img.shields.io/badge/Email-parsa@example.com-red?logo=gmail&logoColor=white)](mailto:parsa@example.com)
+[![Email](https://img.shields.io/badge/Email-parsa@example.com-red?logo=gmail&logoColor=white)](mailto:parsahamzeiii@gmail.com)
 
 ---
 
