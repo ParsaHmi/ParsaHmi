@@ -35,12 +35,17 @@ GEEK ;
 ![SQL Progress](https://img.shields.io/badge/SQL-70%25-4479A1?logo=mysql&logoColor=white)
 <br>
 
+![Linux Progress](https://img.shields.io/badge/Linux-60%25-FCC624?logo=linux&logoColor=black)
+<br>
+
+![Network Progress](https://img.shields.io/badge/Network-40%25-1DA1F2?logo=wifi&logoColor=white)
+<br>
+
 ### Others :<br>
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
 ![VHDL](https://img.shields.io/badge/-VHDL-FFB300)
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
-![Linux Progress](https://img.shields.io/badge/Linux-70%25-FCC624?logo=linux&logoColor=black)
-![Network Progress](https://img.shields.io/badge/Network-70%25-1DA1F2?logo=wifi&logoColor=white)
+
 
 
 
