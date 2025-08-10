@@ -15,13 +15,13 @@ GEEK ;
 
 ## Skills :
 ![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white)
-![Progress](https://img.shields.io/badge/Progress-75%25-brightgreen)<br>
+![Progress](https://img.shields.io/badge/Progress-75%25-00599C?logo=c%2B%2B&logoColor=white)
+<br>
 
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white)
-![Progress](https://img.shields.io/badge/Progress-75%25-brightgreen)<br>
-
 ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?logo=laravel&logoColor=white)
 ![Progress](https://img.shields.io/badge/Progress-75%25-brightgreen)<br>
+
 
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)
 ![Progress](https://img.shields.io/badge/Progress-75%25-brightgreen)<br>
