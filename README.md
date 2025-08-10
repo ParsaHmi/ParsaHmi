@@ -22,8 +22,11 @@ GEEK ;
 ![VHDL](https://img.shields.io/badge/-VHDL-FFB300)
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
 
-![C++](https://img.shields.io/badge/C++-70%25-blue)
-![C++](https://progress-bar.dev/70/?title=C++&color=00599C)
+**C++**
+<div style="background-color: #e0e0e0; border-radius: 5px; width: 300px;">
+  <div style="background-color: #00599C; width: 70%; padding: 5px 0; border-radius: 5px;"></div>
+</div>
+
 
 
 
