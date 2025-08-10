@@ -23,6 +23,8 @@ GEEK ;
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
 
 ![C++](https://img.shields.io/badge/C++-70%25-blue)
+![C++](https://progress-bar.dev/70/?title=C++&color=00599C)
+
 
 
 ---
