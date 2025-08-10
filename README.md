@@ -22,12 +22,6 @@ GEEK ;
 ![VHDL](https://img.shields.io/badge/-VHDL-FFB300)
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
 
-
----
-
-![Parsa's GitHub stats](https://github-readme-stats.vercel.app/api?username=ParsaHmi&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ParsaHmi&layout=compact&theme=radical)
-
 ---
 
 ## Contact Info
