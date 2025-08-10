@@ -23,9 +23,15 @@ GEEK ;
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
 
 **C++**
-<div style="background-color: #e0e0e0; border-radius: 5px; width: 300px;">
-  <div style="background-color: #00599C; width: 70%; padding: 5px 0; border-radius: 5px;"></div>
+<div style="background-color: #e0e0e0; border-radius: 10px; width: 300px; height: 15px;">
+  <div style="background-color: #00599C; width: 70%; height: 100%; border-radius: 10px;"></div>
 </div>
+
+**PHP**
+<div style="background-color: #e0e0e0; border-radius: 10px; width: 300px; height: 15px;">
+  <div style="background-color: #777BB4; width: 60%; height: 100%; border-radius: 10px;"></div>
+</div>
+
 
 
 
