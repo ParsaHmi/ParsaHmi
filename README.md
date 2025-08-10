@@ -39,6 +39,9 @@ GEEK ;
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
 ![VHDL](https://img.shields.io/badge/-VHDL-FFB300)
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
+![Linux Progress](https://img.shields.io/badge/Linux-70%25-FCC624?logo=linux&logoColor=black)
+![Network Progress](https://img.shields.io/badge/Network-70%25-1DA1F2?logo=wifi&logoColor=white)
+
 
 
 
