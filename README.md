@@ -32,8 +32,6 @@ GEEK ;
 
 ## Contact Info
 [![Email](https://img.shields.io/badge/Email-parsa@example.com-red?logo=gmail&logoColor=white)](mailto:parsa@example.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/your-link)
-[![Telegram](https://img.shields.io/badge/Telegram-@yourusername-2CA5E0?logo=telegram&logoColor=white)](https://t.me/yourusername)
 
 ---
 
