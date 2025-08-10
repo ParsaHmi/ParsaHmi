@@ -9,7 +9,7 @@ GEEK ;
 ## About me :
 - Intrested in DataBase , Data analyse and Computer Architeture 
 - learning Embeded Systems , HDL 
-- LOVE TrAvEl , CALLISTHENICS , Problem solving , Celebrating Banquet and 
+- LOVE Travel , callisthenics , Problem solving , Attending banquets and enjoying celebrations !
 
 ---
 
