@@ -18,17 +18,17 @@ GEEK ;
 ![Python Progress](https://img.shields.io/badge/Python-80%25-3776AB?logo=python&logoColor=white)
 <br>
 
-![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white)
-![Progress](https://img.shields.io/badge/Progress-75%25-00599C?logo=c%2B%2B&logoColor=white)
-<br>
-
 ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)
 ![Java Progress](https://img.shields.io/badge/Java-70%25-007396?logo=java&logoColor=white)
 <br>
 
+![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white)
+![Progress](https://img.shields.io/badge/Progress-60%25-00599C?logo=c%2B%2B&logoColor=white)
+<br>
+
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?logo=laravel&logoColor=white)
-![Laravel Progress](https://img.shields.io/badge/Laravel-60%25-FF2D20?logo=laravel&logoColor=white)
+![Laravel Progress](https://img.shields.io/badge/Laravel-50%25-FF2D20?logo=laravel&logoColor=white)
 <br>
 
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)
