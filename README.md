@@ -23,7 +23,7 @@ GEEK ;
 <br>
 
 ![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white)
-![c/c++](https://img.shields.io/badge/Progress-60%25-00599C?logo=c%2B%2B&logoColor=white)
+![c/c++](https://img.shields.io/badge/C++-60%25-00599C?logo=c%2B%2B&logoColor=white)
 <br>
 
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white)
