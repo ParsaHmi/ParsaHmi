@@ -32,7 +32,8 @@ GEEK ;
 <br>
 
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)
-![Progress](https://img.shields.io/badge/Progress-75%25-brightgreen)<br>
+![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=mysql&logoColor=white)
+<br>
 ##Others :<br>
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
 ![VHDL](https://img.shields.io/badge/-VHDL-FFB300)
