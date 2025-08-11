@@ -56,6 +56,10 @@ GEEK ;
 
 ## Contact Info
 [![Email](https://img.shields.io/badge/Gmail-parsahamzeiii@gmail.com-red?logo=gmail&logoColor=white)](mailto:parsahamzeiii@gmail.com)
+[![Telegram](https://img.shields.io/badge/Telegram-@parsa-2CA5E0?logo=telegram&logoColor=white)](https://t.me/parsahami)
+[![Instagram](https://img.shields.io/badge/Instagram-@parsa-E1306C?logo=instagram&logoColor=white)](https://instagram.com/parsahmi)
+
+
 
 ---
 
