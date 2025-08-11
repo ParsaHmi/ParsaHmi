@@ -1,3 +1,5 @@
+![header](https://your-image-link-here.com/banner.png)
+
 # Salutations :D
 
 CE Student at SBU ;<br>
